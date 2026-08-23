@@ -5,6 +5,6 @@ Decided an overall architecture
 Made cad design for Conveyor and roller
 
 **Day 3**
-Made cad design for support structure + inspection area
+Made cad design for support structure + inspection area \n
 Feeder idea: Mixed parts flow down a V-shaped vibrating trough
 

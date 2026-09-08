@@ -21,10 +21,19 @@ Bins can be placed on a rotating platform and the nuts and bolts will fall into 
 Additionally, made rough cad design for support structure + inspection area   
 [consider Feeder idea: Mixed parts flow down a V-shaped vibrating trough]
 
+
 # **Day 4 (24\08\26)**
 ### *Electronic Components were finalised*
 Stepper motor (for more control over the movement of conveyor belt)  
 IR sensor to detect the arrival of an object for classification   
 Micro servo to operate a flap at the end of conveyor   
 Servo to rotate the platform with bins  
+
+# **Day 5 (09\09\26)**
+### *Detection area design*
+Initially it was decided to train the model for all lighting but it will be more efficient to control the lighting and train the model.
+Subsequently, black out curtains can be provided to do so.  
+The cad model needs to be revised accordingly.  
+
+<img width="1536" height="537" alt="AdobeExpressPhotos_9e48ade3b76747a9ab3264e8db148c29_CopyEdited" src="https://github.com/user-attachments/assets/4a87a2a2-d800-4648-9c9a-972cd4d4f028" />
 

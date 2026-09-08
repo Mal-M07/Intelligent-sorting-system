@@ -30,7 +30,7 @@ The system detects an object in a designated detection zone, determines whether 
 * Automate the sorting of nuts and bolts.
 * Reduce manual sorting effort.
 * Use computer vision for object identification.
-* Establish communication between a computer-vision system and an microcontroller.
+* Establish communication between a computer-vision system and a microcontroller.
 
 
 ---
